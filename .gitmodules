@@ -3,4 +3,4 @@
 	url = https://github.com/google/googletest.git
 [submodule "lib/progress_bar"]
 	path = lib/progress_bar
-	url = git@github.com:bmc-labs/progress_bar.git
+	url = https://github.com/bmc-labs/progress_bar.git
